@@ -5,7 +5,7 @@ A web-based data analytics application that analyzes student academic performanc
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit link here after deployment)
+👉 https://student-result-analyzer-7bkpaupejfkw6dheegdpuj.streamlit.app/
 
 ---
 
